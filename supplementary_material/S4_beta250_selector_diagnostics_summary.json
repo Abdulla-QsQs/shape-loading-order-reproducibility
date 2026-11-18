@@ -1,0 +1,25 @@
+{
+  "publication_runs": 36,
+  "policy_counts": {
+    "feedback": 12,
+    "fixed": 12,
+    "random": 12
+  },
+  "beta_values": [
+    250.0
+  ],
+  "configuration_hashes": [
+    "80a14f3c3588526f2ead0465d462d83b2a2811f4a758d4472afbacc98018fc0c"
+  ],
+  "nonterminal_feedback_steps": 132,
+  "entropy_mean": 0.9659920811084232,
+  "entropy_min": 0.8403005020810107,
+  "entropy_max": 1.0000000000000002,
+  "selected_probability_mean": 0.2006642301197346,
+  "selected_probability_min": 0.0320730452922623,
+  "selected_probability_max": 0.7198618333599931,
+  "effective_candidate_fraction_mean": 0.9490017765592693,
+  "effective_candidate_fraction_min": 0.8255360468676911,
+  "kl_from_uniform_nats_mean": 0.05331669672707748,
+  "kl_from_uniform_nats_max": 0.1917223498670301
+}

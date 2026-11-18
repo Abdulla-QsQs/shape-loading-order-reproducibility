@@ -1,0 +1,34 @@
+{
+  "study": {
+    "events_per_pool": 12,
+    "peak_force": 1000000.0,
+    "probe_force": 1000.0,
+    "probe_every": 4,
+    "load_schedule": [0.25, 0.5, 0.75, 1.0, 0.75, 0.5, 0.25, 0.0]
+  },
+  "geometry": {
+    "radius": 0.05,
+    "mesh_resolution": 7,
+    "cap_area_fraction": 0.04
+  },
+  "material": {
+    "density": 2700.0,
+    "young_modulus": 68900000000.0,
+    "poisson_ratio": 0.33,
+    "yield_strength": 276000000.0,
+    "hardening_modulus": 1000000000.0
+  },
+  "selection": {
+    "feedback_strength": 250.0,
+    "shape_weight": 1.0,
+    "com_weight": 1.0
+  },
+  "solver": {
+    "absolute_tolerance": 1e-7,
+    "relative_tolerance": 1e-7,
+    "maximum_iterations": 30,
+    "relaxation_parameter": 1.0,
+    "linear_solver": "mumps",
+    "minimum_jacobian_ratio": 0.25
+  }
+}

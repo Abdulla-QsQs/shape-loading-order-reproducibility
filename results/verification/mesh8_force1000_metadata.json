@@ -1,0 +1,76 @@
+{
+  "run_id": "mesh8_force1000",
+  "status": "complete",
+  "error": null,
+  "pool_seed": 1001,
+  "policy": "fixed",
+  "policy_seed": 2001,
+  "completed_cycles": 2,
+  "requested_cycles": 2,
+  "configuration_sha256": "4d675ba1cafd3bc2dc92f3f8dbe0053eaeabc1ff0ee9d1dfcd81a61425faf63d",
+  "config": {
+    "study": {
+      "events_per_pool": 2,
+      "peak_force": 1000000.0,
+      "probe_force": 1000.0,
+      "probe_every": 6,
+      "load_schedule": [
+        0.25,
+        0.5,
+        0.75,
+        1.0,
+        0.75,
+        0.5,
+        0.25,
+        0.0
+      ]
+    },
+    "geometry": {
+      "radius": 0.05,
+      "mesh_resolution": 8,
+      "cap_area_fraction": 0.04
+    },
+    "material": {
+      "density": 2700.0,
+      "young_modulus": 68900000000.0,
+      "poisson_ratio": 0.33,
+      "yield_strength": 276000000.0,
+      "hardening_modulus": 1000000000.0
+    },
+    "selection": {
+      "feedback_strength": 1.5,
+      "shape_weight": 1.0,
+      "com_weight": 1.0
+    },
+    "solver": {
+      "absolute_tolerance": 1e-07,
+      "relative_tolerance": 1e-07,
+      "maximum_iterations": 30,
+      "relaxation_parameter": 1.0,
+      "linear_solver": "mumps",
+      "minimum_jacobian_ratio": 0.1
+    }
+  },
+  "derived_material": {
+    "shear_modulus": 25902255639.097744,
+    "lame_lambda": 50280849181.77798,
+    "bulk_modulus": 67549019607.84314
+  },
+  "load_pool_vector_sum": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "software": {
+    "python": "3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) \n[GCC 13.3.0]",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.42",
+    "dolfin": "2019.1.0",
+    "numpy": "2.0.2",
+    "pandas": "2.3.1"
+  },
+  "mesh": {
+    "vertices": 729,
+    "cells": 3072
+  },
+  "elapsed_seconds": 92.81514138699998
+}

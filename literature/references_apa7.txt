@@ -1,0 +1,29 @@
+Bleyer, J. (2018). Numerical tours of continuum mechanics using FEniCS. Zenodo. https://doi.org/10.5281/zenodo.1287832
+
+Bonnet, M., Frangi, A., & Rey, C. (2014). THE FINITE ELEMENT METHOD IN SOLID MECHANICS. McGraw-Hill Education.
+
+Branco, R. M., Costa, J. D. M., Prates, P. A., Berto, F., Malça, C. M. S. P., & Mateus, A. J. (2022). Load sequence effects and cyclic deformation behaviour of 7075-T651 aluminium alloy. International Journal of Fatigue, 155, 106593. https://doi.org/10.1016/j.ijfatigue.2021.106593
+
+Chen, H., Yang, F., Wu, Z., Yang, B., & Huo, J. (2023). A nonlinear fatigue damage accumulation model under variable amplitude loading considering the loading sequence effect. International Journal of Fatigue, 177, 107945. https://doi.org/10.1016/j.ijfatigue.2023.107945
+
+Gorji, M. B., Mozaffar, M., Heidenreich, J. N., Cao, J., & Mohr, D. (2020). On the potential of recurrent neural networks for modeling path dependent plasticity. Journal of the Mechanics and Physics of Solids, 143, 103972. https://doi.org/10.1016/j.jmps.2020.103972
+
+Jodha, S. P., & Papakonstantinou, K. G. (2026). Probabilistic Hazard Analysis Framework with Stochastic Optimal Control for Deteriorating Civil Infrastructure Systems. arXiv. https://doi.org/10.48550/arXiv.2604.23068
+
+Kim, M. G., Koo, B., Han, Y. S., & Yoon, M. (2021). Asymmetric Design Sensitivity and Isogeometric Shape Optimization Subject to Deformation-Dependent Loads. Symmetry, 13(12), Article 2373. https://doi.org/10.3390/sym13122373
+
+Mattiello, A., & Desmorat, R. (2020). Lode angle dependency due to anisotropic damage. International Journal of Damage Mechanics, 30(2), 214-259. https://doi.org/10.1177/1056789520948563
+
+Salifu, S., & Olubambi, P. A. (2024). A Review of Fatigue Failure and Life Estimation Models: From Classical Methods to Innovative Approaches. Science, Engineering and Technology, 4(2), 123-151. https://doi.org/10.54327/set2024/v4.i2.140
+
+Si, L., & Baier, H. (2015). Real-Time Impact Visualization Inspection of Aerospace Composite Structures with Distributed Sensors. Sensors, 15(7), 16536-16556. https://doi.org/10.3390/s150716536
+
+Strano, M., Jirathearanat, S., & Altan, T. (2001). Adaptive FEM Simulation for Tube Hydroforming: a Geometry-Based Approach for Wrinkle Detection. CIRP Annals, 50(1), 185-190. https://doi.org/10.1016/S0007-8506(07)62101-5
+
+Timofeev, D., Barchiesi, E., Misra, A., & Placidi, L. (2020). Hemivariational continuum approach for granular solids with damage-induced anisotropy evolution. Mathematics and Mechanics of Solids. https://doi.org/10.1177/1081286520968149
+
+Vormwald, M. (2015). Classification of Load Sequence Effects in Metallic Structures. Procedia Engineering, 101, 534-542. https://doi.org/10.1016/j.proeng.2015.02.064
+
+Zheng, Z., Néron, D., & Nackenhorst, U. (2024). A stochastic LATIN method for stochastic and parameterized elastoplastic analysis. Computer Methods in Applied Mechanics and Engineering. https://doi.org/10.1016/j.cma.2023.116613
+
+Zivaljevic, S., & Tomanovic, Z. (2021). Loading history effect on time-dependent deformations after unloading – reversible creep of soft rock (marl). Mechanics of Time-Dependent Materials, 26(3), 499-530. https://doi.org/10.1007/s11043-021-09498-w

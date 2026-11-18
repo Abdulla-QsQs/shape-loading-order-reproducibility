@@ -1,0 +1,4 @@
+package_version=reproducibility-package-v1.0.3
+release_status=release_candidate
+repository_url=https://github.com/Abdulla-QsQs/shape-loading-order-reproducibility
+planned_tag=v1.0.3

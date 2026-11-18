@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, cite the accompanying manuscript and this reproducibility package."
+type: software
+title: "Reproducibility package for Does Shape Remember Loading Order? A Matched-Pool Sphere Simulation Study"
+version: "1.0.3"
+repository-code: "https://github.com/Abdulla-QsQs/shape-loading-order-reproducibility"
+abstract: >-
+  Code, matched direction pools, frozen outputs, analysis, and supplementary
+  diagnostics for an exploratory quasi-static finite-element study of
+  geometry-conditioned stochastic loading order.
+keywords:
+  - computational mechanics
+  - finite-element analysis
+  - FEniCS
+  - elastoplasticity
+  - reproducible research
+  - stochastic loading
+authors:
+  - family-names: "Mustafa"
+    given-names: "Lulua"
+  - family-names: "Abdulla"
+    given-names: "Mohamed"
